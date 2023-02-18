@@ -11,7 +11,7 @@ It has a basic web-page portal where Sales and Stock reports can be uploaded. Th
 
 ### Application Example
 
-![Application Example](https://s3.gifyu.com/images/2023-02-18-12-46-44.gif)
+![Application Demo](venv/Examples/example.gif)
 
 
 ## Getting Started
